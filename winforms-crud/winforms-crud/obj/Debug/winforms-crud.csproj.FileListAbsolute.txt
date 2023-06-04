@@ -1,0 +1,16 @@
+E:\builds\c_sharp\CRUD-winforms\winforms-crud\winforms-crud\bin\Debug\winforms-crud.exe.config
+E:\builds\c_sharp\CRUD-winforms\winforms-crud\winforms-crud\bin\Debug\winforms-crud.exe
+E:\builds\c_sharp\CRUD-winforms\winforms-crud\winforms-crud\bin\Debug\winforms-crud.pdb
+E:\builds\c_sharp\CRUD-winforms\winforms-crud\winforms-crud\obj\Debug\winforms-crud.csproj.AssemblyReference.cache
+E:\builds\c_sharp\CRUD-winforms\winforms-crud\winforms-crud\obj\Debug\winforms-crud.csproj.SuggestedBindingRedirects.cache
+E:\builds\c_sharp\CRUD-winforms\winforms-crud\winforms-crud\obj\Debug\winforms_crud.Properties.Resources.resources
+E:\builds\c_sharp\CRUD-winforms\winforms-crud\winforms-crud\obj\Debug\winforms-crud.csproj.GenerateResource.cache
+E:\builds\c_sharp\CRUD-winforms\winforms-crud\winforms-crud\obj\Debug\winforms-crud.csproj.CoreCompileInputs.cache
+E:\builds\c_sharp\CRUD-winforms\winforms-crud\winforms-crud\obj\Debug\winforms-crud.exe
+E:\builds\c_sharp\CRUD-winforms\winforms-crud\winforms-crud\obj\Debug\winforms-crud.pdb
+E:\builds\c_sharp\CRUD-winforms\winforms-crud\winforms-crud\bin\Debug\Guna.UI.dll
+E:\builds\c_sharp\CRUD-winforms\winforms-crud\winforms-crud\obj\Debug\winforms_crud.Form1.resources
+E:\builds\c_sharp\CRUD-winforms\winforms-crud\winforms-crud\obj\Debug\winforms-crud.csproj.CopyComplete
+E:\builds\c_sharp\CRUD-winforms\winforms-crud\winforms-crud\obj\Debug\winforms_crud.FormDelete.resources
+E:\builds\c_sharp\CRUD-winforms\winforms-crud\winforms-crud\obj\Debug\winforms_crud.FormUpdate.resources
+E:\builds\c_sharp\CRUD-winforms\winforms-crud\winforms-crud\obj\Debug\winforms_crud.FormRead.resources
